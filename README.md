@@ -1,4 +1,5 @@
 # Proyecto-Final-Diplo-Deeplearning
+USUARIO EDX en los Cursos realizados: Imk_2020
 
 Las dos notebooks principales son:
 
